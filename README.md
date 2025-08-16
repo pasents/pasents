@@ -18,7 +18,7 @@ MSc (Behavioral Economics – Financial track) @ Erasmus
 
 ### 1) EGARCH BTC/USDT – variance-breach strategy
 - Sharpe **0.27** vs **0.19** (B&H), MDD **−59.25%** vs **−76.63%**, 178 trades, win rate **27.53%**  
-- Repo: [EGARCH-BTC-USDT](https://github.com/pasents/EGARCH-BTC-USDT)
+- Repo: [EGARCH-BTC-USDT](https://github.com/pasents/EGARCH-BTC-USDT-)
 
 ### 2) IWDA RSI + Bollinger + Drawdown signals
 - Oversold signal generator + backtest; CSV logs + equity curves  
@@ -26,7 +26,7 @@ MSc (Behavioral Economics – Financial track) @ Erasmus
 
 ### 3) Stockfish Chessbot (Tkinter GUI, ~1800 Elo)
 - Click-to-move, SAN/UCI input, promotions, opening helper  
-- Repo: [stockfish-chessbot-1800elo](https://github.com/pasents/stockfish-chessbot-1800elo)
+- Repo: [stockfish-chessbot-1800elo](https://github.com/pasents/stockfish-chessbot-1800elo-)
 
 
 ---
