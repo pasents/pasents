@@ -1,4 +1,3 @@
-
 # Christos Pasentsis
 
 **Early-career quant researcher** — Python, time-series, backtesting, EGARCH/indicators  
