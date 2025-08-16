@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 # Christos Pasentsis
 
 **Early-career quant researcher** — Python, time-series, backtesting, EGARCH/indicators  
@@ -41,6 +39,4 @@ If your CV file lives somewhere else in the repo, you can use a relative link in
 If your default branch is not "main", change the link to:
 https://github.com/pasents/pasents/raw/<your-branch>/Christos_Pasentsis_CV.pdf
 
-Tip: keep repo names exactly as above; if they differ, update the three project links.
 -->
->>>>>>> 9373db3 (Add CV PDF and link in README)
