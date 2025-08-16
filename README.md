@@ -6,7 +6,8 @@ MSc (Behavioral Economics – Financial track) @ Erasmus
 [LinkedIn](https://www.linkedin.com/in/christos-pasentsis-8b817819b) ·
 [GitHub](https://github.com/pasents) ·
 📧 [cpasentsc@gmail.com](mailto:cpasentsc@gmail.com) ·
-📄 [CV (PDF)](./Christos_Pasentsis_CV.pdf)
+📄 [CV (PDF)](https://github.com/pasents/pasents/raw/main/Christos_Pasentsis_CV.pdf)
+
 ---
 
 ## Featured projects
