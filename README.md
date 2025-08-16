@@ -31,7 +31,7 @@ MSc (Behavioral Economics – Financial track) @ Erasmus
 ## Tech
 `Python` `pandas` `NumPy` `matplotlib` `statsmodels` `arch` `ccxt` `backtesting` `time-series`
 
-<!--
+
 If your CV file lives somewhere else in the repo, you can use a relative link instead:
 [CV (PDF)](./Christos_Pasentsis_CV.pdf)
 
