@@ -3,7 +3,7 @@
 **Early-career quant researcher** — Python, time-series, backtesting, EGARCH/indicators.  
 MSc (Behavioral Economics – Financial track) @ Erasmus.
 
-[LinkedIn](https://www.linkedin.com/in/christos-pasentsis-8b817819b) · [GitHub](https://github.com/pasents) · 📧 cpasentsc@gmail.com · 📄 [CV (PDF)](https://your-link-to-cv.pdf)
+[LinkedIn](https://www.linkedin.com/in/christos-pasentsis-8b817819b) · [GitHub](https://github.com/pasents) · 📧 cpasentsc@gmail.com · 📄 [CV (PDF)](file:///C:/Users/cpase/OneDrive/%CE%A5%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE%CF%82/Christos_Pasentsis_CV.pdf)
 
 ---
 
