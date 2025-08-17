@@ -1,6 +1,6 @@
 # Christos Pasentsis
 
-## Exploring programming and quantitative finance through projects — Python, time-series, backtesting, EGARCH models
+# Exploring programming and quantitative finance through projects — Python, time-series, backtesting, EGARCH models
 
 [LinkedIn](https://www.linkedin.com/in/christos-pasentsis-8b817819b) ·
 [GitHub](https://github.com/pasents) ·
