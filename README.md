@@ -1,3 +1,4 @@
+# Projects in Quant Finance & Programming
 # Christos Pasentsis
 
 Exploring programming and quantitative finance through projects — Python, time-series, backtesting, EGARCH models
