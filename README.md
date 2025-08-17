@@ -1,7 +1,6 @@
 # Christos Pasentsis
 
-**Early-career quant researcher** — Python, time-series, backtesting, EGARCH/indicators  
-MSc (Behavioral Economics – Financial track) @ Erasmus
+**Exploring programming and quantitative finance through projects — Python, time-series, backtesting, EGARCH models
 
 [LinkedIn](https://www.linkedin.com/in/christos-pasentsis-8b817819b) ·
 [GitHub](https://github.com/pasents) ·
