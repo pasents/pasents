@@ -1,6 +1,6 @@
 # Christos Pasentsis
 
-Exploring programming and quantitative finance through projects — Python, time-series, backtesting, EGARCH models
+“MSc candidate in Behavioral Economics (Financial Track) with a strong focus on quantitative trading, econometrics, and systematic strategy development. Projects include an EGARCH BTC backtest, IWDA ETF signal generator, and a Stockfish chessbot. Skilled in Python, time-series modelling, and quantitative analysis.”
 
 [LinkedIn](https://www.linkedin.com/in/christos-pasentsis-8b817819b) ·
 [GitHub](https://github.com/pasents) ·
