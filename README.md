@@ -15,7 +15,7 @@ MSc candidate in Behavioral Economics (Financial Track) with a strong focus on q
 ## Featured projects
 
 ### 1) EGARCH BTC/USDT – variance-breach strategy
-- Sharpe **0.27** vs **0.19** (B&H), MDD **−59.25%** vs **−76.63%**, 178 trades, win rate **27.53%**  
+- Sharpe **1.25** vs **0.95** (B&H), MDD **−54.76%** vs **−76.63%**, 82 trades, win rate **84.15%**
 - Repo: [EGARCH-BTC-USDT](https://github.com/pasents/EGARCH-BTC-USDT-)
 
 ### 2) IWDA RSI + Bollinger + Drawdown signals
