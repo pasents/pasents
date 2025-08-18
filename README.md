@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-
-=======
 # Christos Pasentsis
 
-**Early-career quant researcher** — Python, time-series, backtesting, EGARCH/indicators  
-MSc (Behavioral Economics – Financial track) @ Erasmus
+I enjoy turning financial ideas into code — exploring markets through data, models, and algorithms.
+
+MSc candidate in Behavioral Economics (Financial Track) with a strong focus on quantitative trading, econometrics, and systematic strategy development. Projects include an EGARCH BTC backtest, IWDA ETF signal generator, and a Stockfish chessbot. Skilled in Python, time-series modelling, and quantitative analysis.
 
 [LinkedIn](https://www.linkedin.com/in/christos-pasentsis-8b817819b) ·
 [GitHub](https://github.com/pasents) ·
@@ -17,7 +15,11 @@ MSc (Behavioral Economics – Financial track) @ Erasmus
 ## Featured projects
 
 ### 1) EGARCH BTC/USDT – variance-breach strategy
+<<<<<<< HEAD
 - Sharpe **0.27** vs **0.19** (B&H), MDD **−59.25%** vs **−76.63%**, 178 trades, win rate **27.53%**  
+=======
+- Sharpe **1.25** vs **0.95** (B&H), MDD **−54.76%** vs **−76.63%**, 82 trades, win rate **84.15%**
+>>>>>>> f1bc6643ce782f700685da0e990bb603e333adba
 - Repo: [EGARCH-BTC-USDT](https://github.com/pasents/EGARCH-BTC-USDT-)
 
 ### 2) IWDA RSI + Bollinger + Drawdown signals
@@ -33,14 +35,12 @@ MSc (Behavioral Economics – Financial track) @ Erasmus
 
 ## Tech
 `Python` `pandas` `NumPy` `matplotlib` `statsmodels` `arch` `ccxt` `backtesting` `time-series`
-
 <!--
+
 If your CV file lives somewhere else in the repo, you can use a relative link instead:
 [CV (PDF)](./Christos_Pasentsis_CV.pdf)
 
 If your default branch is not "main", change the link to:
 https://github.com/pasents/pasents/raw/<your-branch>/Christos_Pasentsis_CV.pdf
 
-Tip: keep repo names exactly as above; if they differ, update the three project links.
 -->
->>>>>>> 9373db3 (Add CV PDF and link in README)
