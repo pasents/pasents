@@ -2,7 +2,7 @@
 
 I enjoy turning financial ideas into code — exploring markets through data, models, and algorithms.
 
-MSc candidate in Behavioral Economics (Financial Track) with a strong focus on quantitative trading, econometrics, and systematic strategy development. Projects include an EGARCH BTC backtest, IWDA ETF signal generator, and a Stockfish chessbot. Skilled in Python, time-series modelling, and quantitative analysis.
+MSc graduate in Behavioral Economics (Financial Track) with a focus on quantitative trading, econometrics, and systematic strategy development. Experience includes building and backtesting an EGARCH-based Bitcoin trading strategy, developing an IWDA ETF signal generator, and implementing a Stockfish-powered chess engine. Skilled in Python, time-series modeling, and quantitative analysis.
 
 [LinkedIn](https://www.linkedin.com/in/christos-pasentsis-8b817819b) ·
 [GitHub](https://github.com/pasents) ·
