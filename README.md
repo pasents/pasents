@@ -5,7 +5,6 @@
 
 📧 cpasentsc@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/christos-pasentsis-8b817819b  
-📄 CV: https://github.com/pasents/pasents/raw/main/Christos_Pasentsis_CV.pdf
 
 ---
 
